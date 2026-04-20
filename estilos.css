@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-principal: #2ecc71;
+  --fuente-titulos: 'Segoe UI', sans-serif;
+  --fondo: #011b6e;
+  --tarjeta: #1c222d;
+}
+
+body {
+  background-color: var(--fondo);
+  font-family: 'Segoe UI', sans-serif;
+  color: var(--color-principal);
+}
